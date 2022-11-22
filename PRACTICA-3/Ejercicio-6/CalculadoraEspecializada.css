@@ -19,6 +19,7 @@ form{ /* a=0 ; b=0 ; c=1 -> Especificidad = 1 */
     padding-bottom: 10px;
     margin: auto;
     background: rgb(255, 255, 255);
+    color: black;
     border-radius: 15px;
 }
 h1 /* a=0 ; b=0 ; c=1 -> Especificidad = 1 */
